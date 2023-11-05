@@ -1,0 +1,15 @@
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\bin\Debug\for loop.exe.config
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\bin\Debug\for loop.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\bin\Debug\for loop.pdb
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\obj\Debug\for loop.csproj.AssemblyReference.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\obj\Debug\for loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\obj\Debug\for loop.csproj.CoreCompileInputs.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\obj\Debug\for loop.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\for loop\for loop\obj\Debug\for loop.pdb
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\สุตรคูณ\for loop\obj\Debug\for loop.csproj.AssemblyReference.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\สุตรคูณ\for loop\obj\Debug\for loop.csproj.CoreCompileInputs.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\สุตรคูณ\for loop\obj\Debug\for loop.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\สุตรคูณ\for loop\obj\Debug\for loop.pdb
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\สุตรคูณ\for loop\bin\Debug\for loop.exe.config
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\สุตรคูณ\for loop\bin\Debug\for loop.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\สุตรคูณ\for loop\bin\Debug\for loop.pdb
